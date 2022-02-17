@@ -1,0 +1,70 @@
+[api-updater (non-obsolete-error-filter)] 2022-02-12 11:06:05 PM : Starting C:/Users/Khoi Bui/OneDrive - School District No. 36 (Surrey)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 527.0974ms
+moved types parse time: 39ms
+candidates parse time : 1ms
+C# parse time         : 477ms
+candidates check time : 63ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-02-12 11:12:28 PM : Starting C:/Users/Khoi Bui/OneDrive - School District No. 36 (Surrey)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 62.7912ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 167ms
+candidates check time : 58ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-02-12 11:14:33 PM : Starting C:/Users/Khoi Bui/OneDrive - School District No. 36 (Surrey)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 67.7804ms
+moved types parse time: 39ms
+candidates parse time : 1ms
+C# parse time         : 190ms
+candidates check time : 58ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-02-15 1:10:01 PM : Starting C:/Users/Khoi Bui/OneDrive - School District No. 36 (Surrey)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 782.3828ms
+moved types parse time: 42ms
+candidates parse time : 1ms
+C# parse time         : 451ms
+candidates check time : 23ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-02-15 1:11:13 PM : Starting C:/Users/Khoi Bui/OneDrive - School District No. 36 (Surrey)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 62.7905ms
+moved types parse time: 43ms
+candidates parse time : 1ms
+C# parse time         : 145ms
+candidates check time : 22ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-02-15 1:12:27 PM : Starting C:/Users/Khoi Bui/OneDrive - School District No. 36 (Surrey)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 58.8023ms
+moved types parse time: 38ms
+candidates parse time : 1ms
+C# parse time         : 130ms
+candidates check time : 21ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-02-16 1:12:08 PM : Starting C:/Users/Khoi Bui/OneDrive - School District No. 36 (Surrey)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 645.5501ms
+moved types parse time: 35ms
+candidates parse time : 1ms
+C# parse time         : 456ms
+candidates check time : 36ms
+console write time    : 0ms
+
